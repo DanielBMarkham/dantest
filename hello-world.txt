@@ -1,1 +1,2 @@
 This is my very special file. I like it.
+Ouch. I made a change.
